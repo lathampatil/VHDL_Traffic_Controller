@@ -1,7 +1,5 @@
 # VHDL_Traffic_Controller
-4-Way Traffic Light Controller using FPGA (Spartan 3 Board)
-Implemenation of Traffic signal controlling for intersection of 2 major roads
-
+Implemenation of Traffic signal for controlling 4 way traffic using FPGA (Spartan 3) 
 Files: 
 1. Traffic Controller  
 2. Clock Manager  
